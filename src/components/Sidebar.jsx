@@ -14,14 +14,14 @@ import {
 export default function Sidebar() {
   // ✅ Social icons array
   const socials = [
-    { icon: <FaGithub size={28} />, url: "https://github.com/" },
-    { icon: <FaLinkedin size={28} />, url: "https://linkedin.com/" },
-    { icon: <FaTwitter size={28} />, url: "https://twitter.com/" },
-    { icon: <FaInstagram size={28} />, url: "https://instagram.com/" },
-    { icon: <FaFacebook size={28} />, url: "https://facebook.com/" },
-    { icon: <FaYoutube size={28} />, url: "https://youtube.com/" },
-    { icon: <FaWhatsapp size={28} />, url: "https://wa.me/1234567890" },
-    { icon: <FaTelegram size={28} />, url: "https://t.me/username" },
+    { icon: <FaGithub size={28} />, url: "https://github.com/anjali123913" },
+    { icon: <FaLinkedin size={28} />, url: "https://github.com/anjali123913" },
+    // { icon: <FaTwitter size={28} />, url: "https://twitter.com/" },
+    // { icon: <FaInstagram size={28} />, url: "https://instagram.com/" },
+    // { icon: <FaFacebook size={28} />, url: "https://facebook.com/" },
+    // { icon: <FaYoutube size={28} />, url: "https://youtube.com/" },
+    { icon: <FaWhatsapp size={28} />, url: "https://wa.me/8081362911" },
+    // { icon: <FaTelegram size={28} />, url: "https://t.me/username" },
   ];
 
   return (

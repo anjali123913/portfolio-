@@ -2,11 +2,11 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const aboutData = {
-  name: "Arvind Kumar",
-  email: "arvind@example.com",
-  phone: "+91 98765 43210",
-  github: "https://github.com/arvind",
-  linkedin: "https://linkedin.com/in/arvind",
+  name: "Anjali Patel",
+  email: "anjalich0542@gmail.com",
+  phone: "8081362911",
+  github: "https://github.com/anjali123913",
+  linkedin: "https://www.linkedin.com/in/anjali-patel-135a41293",
   skills: [
     "React.js",
     "Node.js",
@@ -23,16 +23,23 @@ const aboutData = {
     {
       role: "MERN Stack Developer",
       company: "HindTech IT Solutions",
-      duration: "2024 - Present",
+      duration: "September 2024 - April 2025",
       details:
         "Worked on multiple live projects, building scalable web apps and with React, Node.js, and MongoDB.",
     },
     {
-      role: "Frontend Developer (Intern)",
-      company: "TechNova",
-      duration: "May-2024 - june 2024",
+      role: "Frontend Developer",
+      company: "Unicorn Tech",
+      duration: "May-2025 - July 2025",
       details:
         "Focused on creating reusable React components and improving UI/UX with Tailwind and animations.",
+    },
+    {
+      role: "MERN Stack Developer",
+      company: "Bijli Wala Aaya",
+      duration: "August-2025 - September 2025",
+      details:
+        "Focused on creating reusable React components and improving UI/UX with Tailwind and animations and use firebase as backend,integrate payment gateway.",
     },
   ],
   hobbies: ["Coding", "Exploring New Tech 🔭"],

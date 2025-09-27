@@ -22,7 +22,7 @@ export default function Hero() {
         initial={{ opacity: 0, y: -30 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        Hi, I'm Arvind Kumar
+        Hi, I'm Anjali Patel
       </motion.h2>
 
       <motion.p
@@ -31,7 +31,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.4 }}
       >
-       MERN Stack Developer | React Enthusiast | Firebase Backend & Auth | Notifications | OAuth | Payment Gateway Integration | User Experience Architect 🌌
+       MERN Stack Developer | React Enthusiast | Firebase Backend & Auth | Notifications | OAuth | Payment Gateway Integration | User Experience Architect 
 
       </motion.p>
 

@@ -8,7 +8,7 @@ export default function Contact() {
     msg: "",
   });
 
-  const EMAIL = "kumararvind60700@gmail.com";
+  const EMAIL = "anjalich0542@gmail.com";
 
   const handleChange = (e) => {
     setEmailData({ ...emailData, [e.target.name]: e.target.value });
