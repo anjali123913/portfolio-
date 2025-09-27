@@ -1,12 +1,40 @@
-# React + Vite
+# My Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application built using **React, Tailwind CSS, Framer Motion, Node.js, Express, and MongoDB**.  
+This project demonstrates modern UI/UX with smooth animations and a scalable backend.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[Click here to view the project](https://majestic-scone-6457cd.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Frontend:**
+- React (Vite)
+- Tailwind CSS
+- Framer Motion (animations)
+
+**Backend:**
+- Node.js
+- Express.js
+- MongoDB (Mongoose ODM)
+
+**Deployment:**
+- Frontend → Netlify
+- Backend → (Your hosting like Render/Heroku/VPS)
+
+---
+
+## ✨ Features
+
+- Responsive UI with Tailwind CSS  
+- Smooth page transitions and animations with Framer Motion  
+- REST API with Node.js & Express  
+- MongoDB database integration  
+- Authentication & secure data handling (if added)  
+- Deployed live with Netlify  
+
+---
+
+
