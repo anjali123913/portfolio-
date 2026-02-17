@@ -57,18 +57,18 @@ const projects = [
         github: "https://github.com/anjali123913/AI-Image-Generater",
         live: "https://taupe-cactus-b4172f.netlify.app/",
       },
-      {
-        name: "BuyBuddy",
-        desc: "MERN E-commerce app with cart, checkout & admin dashboard",
-        github: "https://github.com/yourusername/buybuddy",
-        live: "No Available",
-      },
-      {
-        name: "Medical Store Management System",
-        desc: "Doctor booking + medicine delivery system",
-        github: "https://github.com/yourusername/medicalstore",
-        live: "No Available",
-      },
+      // {
+      //   name: "BuyBuddy",
+      //   desc: "MERN E-commerce app with cart, checkout & admin dashboard",
+      //   github: "https://github.com/yourusername/buybuddy",
+      //   live: "No Available",
+      // },
+      // {
+      //   name: "Medical Store Management System",
+      //   desc: "Doctor booking + medicine delivery system",
+      //   github: "https://github.com/yourusername/medicalstore",
+      //   live: "No Available",
+      // },
     ],
   },
 ];
