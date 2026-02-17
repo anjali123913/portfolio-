@@ -15,7 +15,7 @@ export default function Sidebar() {
   // ✅ Social icons array
   const socials = [
     { icon: <FaGithub size={28} />, url: "https://github.com/anjali123913" },
-    { icon: <FaLinkedin size={28} />, url: "https://github.com/anjali123913" },
+    { icon: <FaLinkedin size={28} />, url: "https://www.linkedin.com/in/anjali-patel-135a41293" },
     // { icon: <FaTwitter size={28} />, url: "https://twitter.com/" },
     // { icon: <FaInstagram size={28} />, url: "https://instagram.com/" },
     // { icon: <FaFacebook size={28} />, url: "https://facebook.com/" },
